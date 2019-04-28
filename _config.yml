@@ -58,10 +58,9 @@ avatar: "https://i.postimg.cc/gkh3sF1X/Spring-Logo2019.png"
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
   - xing:
-      name: Xing
-      show: false
+      name: May
+      show: true
       href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-      icon: fab fa-xing
   - linkedin:
       name: LinkedIn
       show: false
